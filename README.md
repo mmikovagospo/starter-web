@@ -8,3 +8,5 @@ text under introduction
 ## Purpose
 in working dir
 Sample website with plenty of files for demos
+### Copyright
+ test text
